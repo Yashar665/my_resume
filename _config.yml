@@ -134,11 +134,18 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Azerbaijan State University of Economics
-        sub_title: Bachelor's Degree
-        caption: 2015 – 2019
+        title: Qafqaz University
+        sub_title: Bachelor's Degree – World Economy
+        caption: 2012 – 2017
         description: |
-          Focused on **economics, statistics, and quantitative analysis**, which later formed the foundation for my career in **data science and machine learning**.
+          Studied **World Economy**, focusing on international trade, macroeconomics, and global financial systems.
+
+      - layout: top-right
+        title: Azerbaijan State University of Economics (UNEC)
+        sub_title: Master's Degree – International Economic Relations
+        caption: 2017 – 2019
+        description: |
+          Specialized in **International Economic Relations**, with emphasis on global markets, economic policy, and financial systems.
 
   - title: Skills
     layout: text
