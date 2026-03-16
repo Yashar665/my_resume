@@ -6,10 +6,9 @@ version: 2
 
 # Personal info
 name: Yashar Nasibov
-title: Head of Data Science | AI & Machine Learning Leader
+title: Head of Data Science
 email: yasharnasibov@gmail.com
 phone: +994-99-221-11-99
-website: yasharnasibov.com
 
 # Dark Mode
 darkmode: false
@@ -106,7 +105,7 @@ content:
       - layout: right
         title: Yelo Bank
         sub_title: Head of Data Science
-        caption: 2024 – Present
+        caption: 2025 – Present
         description: |
           Leading the **Data Science team and enterprise AI initiatives**.
 
@@ -120,7 +119,7 @@ content:
       - layout: right
         title: Kapital Bank
         sub_title: Senior Data Scientist
-        caption: 2021 – 2024
+        caption: 2021 – 2025
         description: |
           Developed machine learning models and analytics solutions for retail banking.
 
